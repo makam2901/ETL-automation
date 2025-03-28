@@ -35,15 +35,15 @@ The DAG consists of following components
 
 ## Results
 ### Before:
-GCS - results folder
+#### GCS - results folder
 <img width="1432" alt="image" src="https://github.com/user-attachments/assets/722a6e46-edb1-45e1-a439-2d93c6e82094" />
-MongoDB - database
+#### MongoDB - database
 <img width="1421" alt="image" src="https://github.com/user-attachments/assets/48b020cb-3f25-47a6-84f3-d2216ef14ddb" />
 
 ### After:
-GCS - results folder
+#### GCS - results folder
 <img width="1430" alt="image" src="https://github.com/user-attachments/assets/67f7fb15-fb16-46cb-b048-f0edaf0e3ddb" />
-MongoDB - database
+#### MongoDB - database
 <img width="1424" alt="image" src="https://github.com/user-attachments/assets/5c09d170-457e-4e80-9a2d-83f0543cfc2a" />
 
 ### Plots example
